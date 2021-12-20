@@ -1,0 +1,14 @@
+{
+  "name": "single-node-kafka-sample",
+  "version": "1.0.0",
+  "description": "A simple sample producer / consumer with single node kafka",
+  "main": "start.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gusanthiago",
+  "license": "ISC",
+  "dependencies": {
+    "kafkajs": "^1.15.0"
+  }
+}
