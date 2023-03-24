@@ -1,3 +1,4 @@
 node_modules/*
 modules/
-.ipynb_checkpoints
+.ipynb_checkpoints*
+startup*
